@@ -6,16 +6,16 @@ The source dataset is available in the `data` folder. The dataset contains 41 te
 
 The following CSV files are extracted from the text files:
 
-**combined_data.csv**    
+**`combined_data.csv`**    
 This file contains all the texts from all the source text files, along with the source and report date.
 
-**entities.csv**  
+**`entities.csv`**  
 This file contains all the entities extracted from the texts.
 
-**renders.csv**  
+**`renders.csv`**  
 This file contains the rendered HTML from the texts with highlighted entities.
 
-**nouns.csv**  
+**`nouns.csv`**  
 This file contains all the noun phrases from the texts. We did not use this file in the visualization.
 
 ### Data preprocessing
