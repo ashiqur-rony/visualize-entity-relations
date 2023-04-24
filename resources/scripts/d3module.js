@@ -43,7 +43,7 @@ window.onload = function () {
  */
 function load_data(type) {
     Promise.all([
-        d3.csv("resources/data/combined_data_with_nlp_features.csv"),
+        d3.csv("resources/data/combined_data.csv"),
         d3.csv("resources/data/entities.csv"),
         d3.csv("resources/data/nouns.csv"),
         d3.csv("resources/data/renders.csv")
