@@ -1,0 +1,1036 @@
+file,phrase,in_entity
+cia1.txt,30 March,False
+cia1.txt,the British Special Branch,True
+cia1.txt,Omar Bakri Qatada,True
+cia1.txt,his home,False
+cia1.txt,#11 St. Mary's Terrace,True
+cia1.txt,London,True
+cia1.txt,Qatada's bedroom,False
+cia1.txt,a small carton,False
+cia1.txt,10 ounces,True
+cia1.txt,Pentaerythritol,False
+cia1.txt,PETN,False
+cia1.txt,Triacetone Triperoxide,False
+cia1.txt,TATP,False
+cia1.txt,This,False
+cia1.txt,the same explosive,False
+cia1.txt,that,False
+cia1.txt,Richard Reid,True
+cia1.txt,American Airlines,False
+cia1.txt,Paris,True
+cia1.txt,Miami,True
+cia1.txt,22 December,False
+cia1.txt,The BSB,False
+cia1.txt,Qatada,True
+cia1.txt,the basis,False
+cia1.txt,information,False
+cia1.txt,a respected moderate Moslem cleric,False
+cia1.txt,London,True
+cia1.txt,whose name,False
+cia1.txt,this report,False
+cia1.txt,M15,True
+cia10.txt,The Holland Queen crew roster,False
+cia10.txt,a person,False
+cia10.txt,Hans Pakes,True
+cia10.txt,the Holland Queen,False
+cia10.txt,Pakes,True
+cia10.txt,the ship's galley,False
+cia10.txt,an Al Qaeda laptop computer,False
+cia10.txt,Afghanistan,True
+cia10.txt,a roster,False
+cia10.txt,trainees,False
+cia10.txt,an explosives training unit,False
+cia10.txt,Kandahar,True
+cia10.txt,Abu al Masri,True
+cia10.txt,a Yemeni,False
+cia10.txt,this roster,False
+cia10.txt,The record,False
+cia10.txt,he,False
+cia10.txt,The Netherlands,True
+cia10.txt,January,False
+cia10.txt,He,False
+cia10.txt,the alias,False
+cia10.txt,Hans Pakes,True
+cia11.txt,a laptop computer,False
+cia11.txt,Afghanistan,True
+cia11.txt,it,False
+cia11.txt,a Pakistani,False
+cia11.txt,Sahim Albakri,True
+cia11.txt,who,False
+cia11.txt,the Taliban,False
+cia11.txt,an Indian passport,False
+cia11.txt,the name,False
+cia11.txt,Bagwant Dhaliwal,True
+cia11.txt,this same computerwas,False
+cia11.txt,the name,False
+cia11.txt,Muhammed bin Harazi,True
+cia11.txt,who,False
+cia11.txt,the Taliban,False
+cia11.txt,Records,False
+cia11.txt,this computer,False
+cia11.txt,Muhammed bin Harazi,True
+cia11.txt,the USA,False
+cia11.txt,March,False
+cia11.txt,the alias,False
+cia11.txt,Abdul Ramazi,True
+cia2.txt,an interview,False
+cia2.txt,CIA officers,False
+cia2.txt,March,False
+cia2.txt,al Hada,True
+cia2.txt,such good weather,False
+cia2.txt,flying,False
+cia2.txt,what,False
+cia2.txt,he,False
+cia2.txt,this statement,False
+cia2.txt,the detainee,False
+cia2.txt,That,False
+cia2.txt,you,False
+cia2.txt,The detainee,False
+cia3.txt,a tip,False
+cia3.txt,an unnamed source,False
+cia3.txt,French police,False
+cia3.txt,an Egyptian,False
+cia3.txt,Muhammad Shamzai,True
+cia3.txt,his home,False
+cia3.txt,16 Rue St. Sebastien,False
+cia3.txt,Paris,True
+cia3.txt,8 April,False
+cia3.txt,his home,False
+cia3.txt,police,False
+cia3.txt,200 US and 180 British blank passports,False
+cia3.txt,addition,False
+cia3.txt,the hard drive,False
+cia3.txt,Shamzi's laptop computer,False
+cia3.txt,a record,False
+cia3.txt,a US and British passports,False
+cia3.txt,that,False
+cia3.txt,Shamzi,True
+cia3.txt,these passports,False
+cia3.txt,the name,False
+cia3.txt,Masood Yaser,True
+cia3.txt,whose address,False
+cia3.txt,1660 Coal Mine Road,False
+cia3.txt,Apartment,False
+cia3.txt,Colorado,True
+cia3.txt,USA,True
+cia3.txt,Another US passport,False
+cia3.txt,the name,False
+cia3.txt,Vincent Lozario,True
+cia3.txt,2229 Marshall Avenue,False
+cia3.txt,Minneapolis,True
+cia3.txt,Minnesota,True
+cia3.txt,USA,True
+cia3.txt,A third forged US passport,False
+cia3.txt,the name,False
+cia3.txt,Khalfan Maulid,True
+cia3.txt,656 Laurel Avenue,False
+cia3.txt,Kentucky,True
+cia3.txt,USA,True
+cia4.txt,an interrogation,False
+cia4.txt,a cooperative detainee,False
+cia4.txt,Guantanamo,True
+cia4.txt,Detainee,False
+cia4.txt,he,False
+cia4.txt,a man,False
+cia4.txt,Ziad al Shibh,True
+cia4.txt,an Al Qaeda explosives training facility,False
+cia4.txt,the Sudan,False
+cia4.txt,a captured laptop computer,False
+cia4.txt,Afghanistan,True
+cia4.txt,it,False
+cia4.txt,Ziad al Shibh,True
+cia4.txt,a United Arab Emirates passport,False
+cia4.txt,the name,False
+cia4.txt,Faysal Goba,True
+cia4.txt,INS check,False
+cia4.txt,a Faysal Goba,True
+cia4.txt,the United Arab Emirates,True
+cia4.txt,the USA,False
+cia4.txt,a travel visa,False
+cia4.txt,January,False
+cia4.txt,he,False
+cia4.txt,a person,False
+cia4.txt,Clark Webster,True
+cia4.txt,Richmond,True
+cia4.txt,The contact address,False
+cia4.txt,Goba,True
+cia4.txt,1631 Capitol Ave,False
+cia4.txt,phone number,False
+cia5.txt,19 April,True
+cia5.txt,a car bomb,False
+cia5.txt,the American Diplomatic Mission Headquarters,True
+cia5.txt,Buenos Aires,True
+cia5.txt,no casualties,False
+cia5.txt,the bomb,False
+cia5.txt,The driver,False
+cia5.txt,the car,False
+cia5.txt,the bomb,False
+cia5.txt,He,False
+cia5.txt,Jamil Musawi,True
+cia5.txt,who,False
+cia5.txt,a member,False
+cia5.txt,Hezboliah,True
+cia5.txt,This organization,False
+cia5.txt,a presence,False
+cia5.txt,several Latin American countries,False
+cia6.txt,20 April,False
+cia6.txt,German intelligence,False
+cia6.txt,a container,False
+cia6.txt,inspection,False
+cia6.txt,the docks,False
+cia6.txt,Bremerhaven,True
+cia6.txt,Germany,True
+cia6.txt,a crate,False
+cia6.txt,which,False
+cia6.txt,four Stinger missiles,False
+cia6.txt,The box,False
+cia6.txt,Marvel Corporation,True
+cia6.txt,1632 Trenton Avenue,False
+cia6.txt,New Jersey,True
+cia6.txt,USA,True
+cia6.txt,The shipper's address,False
+cia6.txt,16 Rhinelander Platz,False
+cia6.txt,Germany,True
+cia6.txt,German intelligence,False
+cia6.txt,no such address,False
+cia6.txt,Hamburg,True
+cia6.txt,The serial numbers,False
+cia6.txt,the four Stinger missiles,False
+cia6.txt,them,False
+cia6.txt,the nearly 400 Stinger missiles,False
+cia6.txt,which,False
+cia6.txt,the late 1980s,True
+cia6.txt,Taliban fighters,False
+cia6.txt,Afghanistan,True
+cia7.txt,Two men,False
+cia7.txt,April,False
+cia7.txt,Dutch police,False
+cia7.txt,Haarlem,True
+cia7.txt,The Netherlands,True
+cia7.txt,the scene,False
+cia7.txt,an accident,False
+cia7.txt,which,False
+cia7.txt,they,False
+cia7.txt,April,False
+cia7.txt,these men,False
+cia7.txt,Tawfiq al Adel,True
+cia7.txt,Saeed Khaliad,True
+cia7.txt,who,False
+cia7.txt,Hamburg,True
+cia7.txt,Germany,True
+cia7.txt,connection,False
+cia7.txt,investigations,False
+cia7.txt,Al Qaeda operations,False
+cia7.txt,Europe,True
+cia7.txt,They,False
+cia7.txt,a panel truck,False
+cia7.txt,Hamburg,True
+cia7.txt,Germany,True
+cia7.txt,Radioactive traces,False
+cia7.txt,bed,False
+cia7.txt,this truck,False
+cia8.txt,An address,False
+cia8.txt,Haarlem,True
+cia8.txt,the truck,False
+cia8.txt,Tawfiq ai Adal,True
+cia8.txt,Saeed Khallad,True
+cia8.txt,This address,False
+cia8.txt,an apartment,False
+cia8.txt,Haarlem,True
+cia8.txt,two Saudi,False
+cia8.txt,who,False
+cia8.txt,Dutch passports,False
+cia8.txt,Jelte Nijboer,True
+cia8.txt,the apartment owner,False
+cia8.txt,they,False
+cia8.txt,storage unit #,False
+cia8.txt,The two men,False
+cia8.txt,al Ahdal,True
+cia8.txt,bin Attash,True
+cia8.txt,container loaders,False
+cia8.txt,Sealink Container Corp.,True
+cia8.txt,Amsterdam,True
+cia8.txt,This corporation,False
+cia8.txt,a large fleet,False
+cia8.txt,containers,False
+cia8.txt,that,False
+cia8.txt,the world,False
+cia8.txt,trains,False
+cia8.txt,trucks,False
+cia8.txt,Inspection,False
+cia8.txt,unit #,False
+cia8.txt,23 April,False
+cia8.txt,radiation traces,False
+cia8.txt,one pair,False
+cia8.txt,lead gloves,False
+cia8.txt,two sticks,False
+cia8.txt,TNT,False
+cia8.txt,pieces,False
+cia8.txt,a wooden crate,False
+cia8.txt,Pieces,False
+cia8.txt,this crate,False
+cia8.txt,radioactive traces,False
+cia8.txt,a company,False
+cia8.txt,Lublin,True
+cia8.txt,Poland,True
+cia9.txt,Analysis,False
+cia9.txt,radioactive particles,False
+cia9.txt,truck,False
+cia9.txt,Tawfiq al Adel,True
+cia9.txt,Saeed Khallad,True
+cia9.txt,the storage unit,False
+cia9.txt,Saleh al Ahdal,True
+cia9.txt,Riduan bin Attash,True
+cia9.txt,them,False
+cia9.txt,One ounce,True
+cia9.txt,this substance,False
+cia9.txt,radioactive fallout,False
+cia9.txt,60 city blocks,False
+fbi1.txt,Abdul Ramazi,True
+fbi1.txt,the owner,False
+fbi1.txt,the Select Gourmet Foods shop,False
+fbi1.txt,Springfield Mall,True
+fbi1.txt,VA,True
+fbi1.txt,[Phone number,False
+fbi1.txt,First Union National Bank,True
+fbi1.txt,Select Gourmet Foods,True
+fbi1.txt,account number,False
+fbi1.txt,Six checks,False
+fbi1.txt,this account,False
+fbi1.txt,the past four months,True
+fbi1.txt,accounts,False
+fbi1.txt,the Pyramid Bank,True
+fbi1.txt,Cairo,True
+fbi1.txt,Egypt,True
+fbi1.txt,the Central Bank,True
+fbi1.txt,Dubai,True
+fbi1.txt,United Arab Emirates,True
+fbi1.txt,Both,False
+fbi1.txt,these banks,False
+fbi1.txt,possible conduits,False
+fbi1.txt,money laundering schemes,False
+fbi10.txt,A routine check,False
+fbi10.txt,security,False
+fbi10.txt,the New York Stock Exchange,True
+fbi10.txt,NYSE,True
+fbi10.txt,some anomalies,False
+fbi10.txt,backaround checks,False
+fbi10.txt,several persons,False
+fbi10.txt,who,False
+fbi10.txt,vendor's IDS,False
+fbi10.txt,that,False
+fbi10.txt,them,False
+fbi10.txt,access,False
+fbi10.txt,the NYSE,False
+fbi10.txt,they,False
+fbi10.txt,security guards,False
+fbi10.txt,A man,False
+fbi10.txt,Steven Clark,True
+fbi10.txt,the City Computer Services Corp.,True
+fbi10.txt,his application,False
+fbi10.txt,a NYSE vendor's ID,False
+fbi10.txt,his arrest,False
+fbi10.txt,conviction,False
+fbi10.txt,a charge,False
+fbi10.txt,assault,False
+fbi10.txt,battery,False
+fbi10.txt,He,False
+fbi10.txt,six months,True
+fbi10.txt,jail,False
+fbi10.txt,probation,False
+fbi10.txt,Shiela Watson,True
+fbi10.txt,the Clark & Co. Office Supplies Co.,True
+fbi10.txt,her current home address,False
+fbi10.txt,her application,False
+fbi10.txt,a vendor's ID,False
+fbi10.txt,1631 Webster Ave,False
+fbi10.txt,NYC,True
+fbi10.txt,no one,False
+fbi10.txt,the name,False
+fbi10.txt,Shiela Watson,True
+fbi10.txt,this residence,False
+fbi10.txt,A man,False
+fbi10.txt,Mark Davis,True
+fbi10.txt,reported age,False
+fbi10.txt,32 years,True
+fbi10.txt,a social security card,False
+fbi10.txt,a New York State Driver's license,False
+fbi10.txt,a birth certificate,False
+fbi10.txt,He,False
+fbi10.txt,Empire State Vending Services,True
+fbi10.txt,Manhattan,True
+fbi10.txt,he,False
+fbi10.txt,vending machines,False
+fbi10.txt,coffee,False
+fbi10.txt,soft drink,False
+fbi10.txt,candy machines,False
+fbi10.txt,He,False
+fbi10.txt,his home address,False
+fbi10.txt,2462 Myrtle Ave. Apt,False
+fbi10.txt,.,False
+fbi10.txt,NYC,True
+fbi11.txt,An INS check,False
+fbi11.txt,expired student visas,False
+fbi11.txt,the names,False
+fbi11.txt,Mukhtar Galab,True
+fbi11.txt,Yasein Mosed,True
+fbi11.txt,They,False
+fbi11.txt,the University,False
+fbi11.txt,Virginia,True
+fbi11.txt,Charlottesville,True
+fbi11.txt,Virginia,True
+fbi11.txt,Checks,False
+fbi11.txt,the University,False
+fbi11.txt,Virginia,True
+fbi11.txt,these two persons,False
+fbi11.txt,any classes,False
+fbi11.txt,the past two semesters,True
+fbi11.txt,The address,False
+fbi11.txt,they,False
+fbi11.txt,both,False
+fbi11.txt,the University,False
+fbi11.txt,Virginia,True
+fbi11.txt,2932 University Drive,False
+fbi11.txt,VA,True
+fbi11.txt,no one,False
+fbi11.txt,this address,False
+fbi11.txt,A check,False
+fbi11.txt,mobile phone providers,False
+fbi11.txt,a Sprint cell phone #,False
+fbi11.txt,the name,False
+fbi11.txt,Mukhtar Galab,True
+fbi12.txt,an interview,False
+fbi12.txt,Shiela Watson,True
+fbi12.txt,she,False
+fbi12.txt,she,False
+fbi12.txt,a mistake,False
+fbi12.txt,her home address,False
+fbi12.txt,her NYSE vendors ID application,False
+fbi12.txt,She,False
+fbi12.txt,her,False
+fbi12.txt,earlier address,False
+fbi12.txt,mistake,False
+fbi13.txt,2462 Myrtle Ave,False
+fbi13.txt,Apt,False
+fbi13.txt,.,False
+fbi13.txt,Queens,True
+fbi13.txt,NYC,True
+fbi13.txt,his home address,False
+fbi13.txt,Bagwant Dhaliwal,True
+fbi13.txt,who,False
+fbi13.txt,Empire State Vending Services,True
+fbi13.txt,Manhattan,True
+fbi14.txt,Security officers,False
+fbi14.txt,O'Hare airport,True
+fbi14.txt,Chicago,True
+fbi14.txt,Illinois,True
+fbi14.txt,two American Airlines baggage handlers,False
+fbi14.txt,Omar Clark,True
+fbi14.txt,Joseph Nizar,True
+fbi14.txt,They,False
+fbi14.txt,luggage,False
+fbi14.txt,that,False
+fbi14.txt,a United Connector flight,False
+fbi14.txt,Green Bay,True
+fbi14.txt,Wisconsin,True
+fbi14.txt,a United flight,False
+fbi14.txt,New York City,True
+fbi14.txt,Their backgrounds,False
+fbi14.txt,the FBI,False
+fbi15.txt,Mukhtar Galab,True
+fbi15.txt,an account,False
+fbi15.txt,the Virginia National Bank,True
+fbi15.txt,Charlottesville,True
+fbi15.txt,VA,True
+fbi15.txt,Bank records,False
+fbi15.txt,he,False
+fbi15.txt,several checks,False
+fbi15.txt,the last three months,True
+fbi15.txt,account number,False
+fbi15.txt,Abdul Ramazi,True
+fbi15.txt,the First Union Bank,True
+fbi15.txt,Springfield,True
+fbi15.txt,VA,True
+fbi16.txt,Hani al Hallak,True
+fbi16.txt,North Bergen,True
+fbi16.txt,NJ,True
+fbi16.txt,checks,False
+fbi16.txt,his bank account,False
+fbi16.txt,that,False
+fbi16.txt,First Union Bank account number,False
+fbi16.txt,Springfield,True
+fbi16.txt,VA,True
+fbi16.txt,the name,False
+fbi16.txt,Abdul Ramazi,True
+fbi16.txt,The latest check,False
+fbi16.txt,the amount,False
+fbi17.txt,no residence,False
+fbi17.txt,address,False
+fbi17.txt,1631 Capitol Ave,False
+fbi17.txt,.,False
+fbi17.txt,Richmond,True
+fbi17.txt,Virginia,True
+fbi17.txt,The phone number,False
+fbi17.txt,this address,False
+fbi17.txt,fact,False
+fbi17.txt,a Sprint cell phone,False
+fbi17.txt,the name,False
+fbi17.txt,Faysal Goba,True
+fbi18.txt,A U-Haul truck,False
+fbi18.txt,Colfax Avenue,True
+fbi18.txt,Denver,True
+fbi18.txt,Colorado,True
+fbi18.txt,tne Camp George West Military Reservation,False
+fbi18.txt,The truck,False
+fbi18.txt,two b own front tires,False
+fbi18.txt,Examination,False
+fbi18.txt,the truck's contents,False
+fbi18.txt,16 land mines,False
+fbi18.txt,The U-haul rental Agency,True
+fbi18.txt,Denver,True
+fbi18.txt,they,False
+fbi18.txt,this truck,False
+fbi18.txt,Denver,True
+fbi18.txt,20 April,False
+fbi18.txt,a man,False
+fbi18.txt,who,False
+fbi18.txt,identification,False
+fbi18.txt,a Colorado driver's license,False
+fbi18.txt,the name,False
+fbi18.txt,Masood Yaser,True
+fbi18.txt,The address,False
+fbi18.txt,this license,False
+fbi18.txt,1660 Coal Mine Road,True
+fbi18.txt,Apartment,False
+fbi18.txt,The owner,False
+fbi18.txt,this apartment complex,False
+fbi18.txt,22 April,False
+fbi18.txt,Masood Yaser,True
+fbi18.txt,Apartment #,False
+fbi18.txt,a folwarding address,False
+fbi19.txt,A report,False
+fbi19.txt,AMTRAK,True
+fbi19.txt,a reservation,False
+fbi19.txt,cash,False
+fbi19.txt,Charlottesville,True
+fbi19.txt,Faysal Goba,True
+fbi19.txt,23 April,False
+fbi19.txt,Reservation,False
+fbi19.txt,three one-way first class tickets,False
+fbi19.txt,one sleeping compartment,False
+fbi19.txt,Charlottesville,True
+fbi19.txt,VA,True
+fbi19.txt,Atlanta,True
+fbi19.txt,GA,True
+fbi19.txt,29 April,False
+fbi19.txt,Reservation,False
+fbi19.txt,AMTRAK Train #,False
+fbi19.txt,which,False
+fbi19.txt,Penn Station NYC,True
+fbi19.txt,New Orleans,True
+fbi19.txt,LA,True
+fbi19.txt,Reservations,False
+fbi19.txt,the names,False
+fbi19.txt,Faysal Goba,True
+fbi19.txt,Mukhtar Galab,True
+fbi19.txt,Yasein Mosed,True
+fbi2.txt,Passport control,False
+fbi2.txt,Dulles Airport,True
+fbi2.txt,Wash DC,True
+fbi2.txt,Abdul Ramazi,True
+fbi2.txt,holder,False
+fbi2.txt,US passport#,False
+fbi2.txt,Passport Agency,True
+fbi2.txt,12 Feb.,False
+fbi2.txt,three trips,False
+fbi2.txt,Amsterdam,True
+fbi2.txt,two trips,False
+fbi2.txt,Hamburg,True
+fbi2.txt,Germany,True
+fbi2.txt,three trips,False
+fbi2.txt,Cairo,True
+fbi2.txt,Egypt,True
+fbi2.txt,the last five months,True
+fbi2.txt,The address,False
+fbi2.txt,Ramazi,True
+fbi2.txt,his passport,False
+fbi2.txt,1176 Floyd Ave,False
+fbi2.txt,VA,True
+fbi2.txt,Phone number,False
+fbi2.txt,this address,False
+fbi20.txt,A check,False
+fbi20.txt,rented storage facilities,False
+fbi20.txt,the Richmond and Charlottesville areas,False
+fbi20.txt,a man,False
+fbi20.txt,his name,False
+fbi20.txt,Abdulla Ramzi,True
+fbi20.txt,storage unit,False
+fbi20.txt,10 April,False
+fbi20.txt,the Budget Storage Units,True
+fbi20.txt,Keswick,True
+fbi20.txt,VA,True
+fbi20.txt,Ramzi,True
+fbi20.txt,his address,False
+fbi20.txt,2932 University Drive,False
+fbi20.txt,VA,True
+fbi20.txt,Ramzi,True
+fbi20.txt,cash,False
+fbi20.txt,a month's rental,False
+fbi21.txt,A routine reporting,False
+fbi21.txt,ships,False
+fbi21.txt,the USA,False
+fbi21.txt,This report,False
+fbi21.txt,departure datelplace,False
+fbi21.txt,destination,False
+fbi21.txt,cargo manifest,False
+fbi21.txt,crew roster,False
+fbi21.txt,arrival,False
+fbi21.txt,ports,False
+fbi21.txt,the USA,False
+fbi21.txt,Report,False
+fbi21.txt,Amsterdam,True
+fbi21.txt,25 April,False
+fbi21.txt,one container ship,False
+fbi21.txt,the US,False
+fbi21.txt,the Holland Queen,True
+fbi21.txt,which,False
+fbi21.txt,Boston,True
+fbi21.txt,Arrival time,False
+fbi21.txt,Boston,True
+fbi21.txt,the Holland Queen,True
+fbi21.txt,29 April,False
+fbi21.txt,1930hrs,False
+fbi22.txt,A photo,False
+fbi22.txt,the man,False
+fbi22.txt,the name,False
+fbi22.txt,Mark Davis,True
+fbi22.txt,a representative,False
+fbi22.txt,the Canadian police,False
+fbi22.txt,NYC,True
+fbi22.txt,The Canadian police investigator,False
+fbi22.txt,the man,False
+fbi22.txt,the photo,False
+fbi22.txt,Hamid Alwan,True
+fbi22.txt,a Saudi,False
+fbi22.txt,who,False
+fbi22.txt,a travel visa,False
+fbi22.txt,the police,False
+fbi22.txt,Canada,True
+fbi22.txt,It,False
+fbi22.txt,Alwan,True
+fbi22.txt,explosives training,False
+fbi22.txt,the Sudan,False
+fbi22.txt,Afghanistan,True
+fbi23.txt,A man,False
+fbi23.txt,Carl Louis,True
+fbi23.txt,whose residence,False
+fbi23.txt,3410 Van Dyke Avenue,True
+fbi23.txt,Detroit,True
+fbi23.txt,Michigan,True
+fbi23.txt,Detroit police,False
+fbi23.txt,foreigners,False
+fbi23.txt,Michigan drivers licenses,False
+fbi23.txt,forged documents,False
+fbi23.txt,Carl Louis,True
+fbi23.txt,forged documents,False
+fbi23.txt,a Lebanese national,False
+fbi23.txt,Abdelhak Kherbane,True
+fbi23.txt,who,False
+fbi23.txt,connection,False
+fbi23.txt,the attempted bombing,False
+fbi23.txt,2 April,True
+fbi23.txt,the Beth Israel Synagogue,True
+fbi23.txt,Detroit,True
+fbi23.txt,Michigan,True
+fbi24.txt,an examination,False
+fbi24.txt,storage unit #,False
+fbi24.txt,the Budget Storage Units,True
+fbi24.txt,Keswick,True
+fbi24.txt,VA,True
+fbi24.txt,fifty pounds,True
+fbi24.txt,C-4 plastic explosive,False
+fbi24.txt,some fusing devices,False
+fbi25.txt,the early morning hours,False
+fbi25.txt,April,False
+fbi25.txt,a passerby,False
+fbi25.txt,a fire,False
+fbi25.txt,a carpet shop,False
+fbi25.txt,that,False
+fbi25.txt,a Hani al Hallak,True
+fbi25.txt,North Bergen,True
+fbi25.txt,fire,False
+fbi25.txt,someone,False
+fbi25.txt,a cigarette butt,False
+fbi25.txt,a waste basket,False
+fbi25.txt,the basement,False
+fbi25.txt,the shop,False
+fbi25.txt,firemen,False
+fbi25.txt,the blaze,False
+fbi25.txt,they,False
+fbi25.txt,several cartons,False
+fbi25.txt,DO NOT OPEN.These,False
+fbi25.txt,cartons,False
+fbi25.txt,explosive,False
+fbi25.txt,Attempts,False
+fbi25.txt,Hani al Hallak,True
+fbi25.txt,An employee,False
+fbi25.txt,the carpet shop,False
+fbi25.txt,police,False
+fbi25.txt,al Hallak,True
+fbi25.txt,a vacation,False
+fbi25.txt,Canada,True
+fbi25.txt,he,False
+fbi25.txt,no address,False
+fbi3.txt,7 April,True
+fbi3.txt,0600 hrs,True
+fbi3.txt,Police,False
+fbi3.txt,a panel truck,False
+fbi3.txt,Ryder Truck Rental,True
+fbi3.txt,Culver City,True
+fbi3.txt,California,True
+fbi3.txt,Ryder,True
+fbi3.txt,this truck,False
+fbi3.txt,1 April,False
+fbi3.txt,a man,False
+fbi3.txt,who,False
+fbi3.txt,the name,False
+fbi3.txt,Karim Bensaid,True
+fbi3.txt,Bensaid,True
+fbi3.txt,a California drivers' license,False
+fbi3.txt,his home address,False
+fbi3.txt,452 Hubbard St.,False
+fbi3.txt,Culver City,True
+fbi3.txt,Bensaid,True
+fbi3.txt,the Ryder sales agent,False
+fbi3.txt,he,False
+fbi3.txt,a small truck,False
+fbi3.txt,two days,True
+fbi3.txt,some items,False
+fbi3.txt,furniture,False
+fbi3.txt,Culver City,True
+fbi3.txt,San Gabriel,True
+fbi3.txt,California,True
+fbi3.txt,the truck,False
+fbi3.txt,6 April,True
+fbi3.txt,the Ryder agent,False
+fbi3.txt,Los Angeles police,False
+fbi3.txt,who,False
+fbi3.txt,turn,False
+fbi3.txt,the FBI,False
+fbi3.txt,6 April,True
+fbi3.txt,an alert LA police officer,False
+fbi3.txt,the truck,False
+fbi3.txt,front,False
+fbi3.txt,an apartment complex,False
+fbi3.txt,Greenlawn Ave,True
+fbi3.txt,.,False
+fbi3.txt,Culver City,True
+fbi3.txt,7 April,True
+fbi3.txt,two men,False
+fbi3.txt,this rental truck,False
+fbi3.txt,They,False
+fbi3.txt,US,False
+fbi3.txt,Imperial Highway,True
+fbi3.txt,They,False
+fbi3.txt,Sheldon St.,True
+fbi3.txt,the City Park,True
+fbi3.txt,El Segundo,True
+fbi3.txt,California,True
+fbi3.txt,this point,False
+fbi3.txt,the two men,False
+fbi3.txt,police,False
+fbi3.txt,FBI agents,False
+fbi3.txt,the truck,False
+fbi3.txt,two pairs,False
+fbi3.txt,binoculars,False
+fbi3.txt,maps,False
+fbi3.txt,the Los Angeles area,False
+fbi3.txt,flight schedules,False
+fbi3.txt,LAX,True
+fbi4.txt,A man,False
+fbi4.txt,who,False
+fbi4.txt,his name,False
+fbi4.txt,Wallace Wilson,True
+fbi4.txt,1730hrs,True
+fbi4.txt,10 April,False
+fbi4.txt,Camp George West Military Reservation,True
+fbi4.txt,Denver,True
+fbi4.txt,Colorado,True
+fbi4.txt,Wilson,True
+fbi4.txt,access,False
+fbi4.txt,this military reservation,False
+fbi4.txt,personal identification,False
+fbi4.txt,the form,False
+fbi4.txt,a Colorado driver's license,False
+fbi4.txt,a Social security card,False
+fbi4.txt,He,False
+fbi4.txt,identification,False
+fbi4.txt,the truck,False
+fbi4.txt,he,False
+fbi4.txt,that,False
+fbi4.txt,his employer,False
+fbi4.txt,the Apex Paper Products Company,True
+fbi4.txt,Denver,True
+fbi4.txt,Colorado,True
+fbi4.txt,This company,False
+fbi4.txt,a contract,False
+fbi4.txt,paper products,False
+fbi4.txt,Camp George West,True
+fbi4.txt,A man,False
+fbi4.txt,the name,False
+fbi4.txt,wallace Wilson,True
+fbi4.txt,a member,False
+fbi4.txt,a domestic militia group,False
+fbi4.txt,Aryan Nations,True
+fbi4.txt,Wilson,True
+fbi4.txt,MPs,False
+fbi4.txt,he,False
+fbi4.txt,boxes,False
+fbi4.txt,his Apex truck,False
+fbi4.txt,The boxes,False
+fbi4.txt,an apparently unlocked storage facility,False
+fbi4.txt,Camp George West,True
+fbi4.txt,The boxes,False
+fbi4.txt,50 Cal ammunition,False
+fbi4.txt,several land mines,False
+fbi5.txt,Border Patrol,True
+fbi5.txt,El Paso,True
+fbi5.txt,Texas,True
+fbi5.txt,Border patrol agents,False
+fbi5.txt,Hudspeth County,True
+fbi5.txt,Texas,True
+fbi5.txt,the night,False
+fbi5.txt,10 April,False
+fbi5.txt,they,False
+fbi5.txt,two men,False
+fbi5.txt,whom,False
+fbi5.txt,they,False
+fbi5.txt,Mexicans,True
+fbi5.txt,the Rio Grande river,True
+fbi5.txt,McNary,True
+fbi5.txt,Texas,True
+fbi5.txt,they,False
+fbi5.txt,the McNary police station,False
+fbi5.txt,it,False
+fbi5.txt,each man,False
+fbi5.txt,cash,False
+fbi5.txt,The two men,False
+fbi5.txt,no Spanish,False
+fbi5.txt,Texas drivers' licenses,False
+fbi5.txt,the names,False
+fbi5.txt,Vincent Cortez,True
+fbi5.txt,Arnaido Gueterrez,True
+fbi5.txt,The address,False
+fbi5.txt,both licenses,False
+fbi5.txt,1212 McRae Blvd,True
+fbi5.txt,Texas,True
+fbi5.txt,They,False
+fbi5.txt,one-way tickets,False
+fbi5.txt,an American Airlines fight,False
+fbi5.txt,El Paso,True
+fbi5.txt,Houston,True
+fbi5.txt,Texas,True
+fbi5.txt,El Paso,True
+fbi5.txt,16 April,False
+fbi5.txt,An investigaton,False
+fbi5.txt,the residence,False
+fbi5.txt,1212 McRae Blvd,True
+fbi5.txt,it,False
+fbi5.txt,two men,False
+fbi5.txt,Ben Hassine,True
+fbi5.txt,Ahmed Yassin,True
+fbi5.txt,both,False
+fbi5.txt,whom,False
+fbi5.txt,students,False
+fbi5.txt,the University,False
+fbi5.txt,Texas,True
+fbi5.txt,El Paso,True
+fbi6.txt,Special report,False
+fbi6.txt,Dr. Clark Adams,False
+fbi6.txt,a Middle Eastern expert,False
+fbi6.txt,whose office,False
+fbi6.txt,the Pentagon,False
+fbi6.txt,13 April,False
+fbi6.txt,he,False
+fbi6.txt,his home,False
+fbi6.txt,1830hrs,True
+fbi6.txt,the Home Depot store,False
+fbi6.txt,Lee Highway,True
+fbi6.txt,Merrifield,True
+fbi6.txt,VA,True
+fbi6.txt,Dr. Adams's family,False
+fbi6.txt,no explanation,False
+fbi6.txt,his disappearance,False
+fbi6.txt,The FBI,False
+fbi6.txt,his disappearance,False
+fbi6.txt,a possible case,False
+fbi6.txt,abduction,False
+fbi7.txt,The Powhatan Company,True
+fbi7.txt,a manufacturer,False
+fbi7.txt,military explosives,False
+fbi7.txt,various types,False
+fbi7.txt,It,False
+fbi7.txt,Keswick,True
+fbi7.txt,Virginia,True
+fbi7.txt,11 April,False
+fbi7.txt,this company,False
+fbi7.txt,200 pounds,True
+fbi7.txt,C-4,True
+fbi7.txt,a recent inventory,False
+fbi8.txt,Two men,False
+fbi8.txt,14 April,False
+fbi8.txt,Bush Intercontinental Airport,True
+fbi8.txt,Houston,True
+fbi8.txt,Texas,True
+fbi8.txt,They,False
+fbi8.txt,Jamal Kalifa,True
+fbi8.txt,Abul Hassan Salman,True
+fbi8.txt,They,False
+fbi8.txt,both,False
+fbi8.txt,airline tickets,False
+fbi8.txt,Dutch passports,False
+fbi8.txt,that,False
+fbi8.txt,Paris,True
+fbi8.txt,France,True
+fbi8.txt,The tickets,False
+fbi8.txt,they,False
+fbi8.txt,Continental Airlines flight,False
+fbi8.txt,Bush Intercontinental,True
+fbi8.txt,Houston,True
+fbi8.txt,Reagan National Airport,True
+fbi8.txt,Washington,True
+fbi8.txt,DC,True
+fbi9.txt,Seattle,True
+fbi9.txt,Washington,True
+fbi9.txt,15 Apr,False
+fbi9.txt,a US Post Office,False
+fbi9.txt,Howell St.,True
+fbi9.txt,six identical packages,False
+fbi9.txt,each,False
+fbi9.txt,Home Made Candies,False
+fbi9.txt,state government officials,False
+fbi9.txt,Seattle,True
+fbi9.txt,the return address,False
+fbi9.txt,1635 Alder St,False
+fbi9.txt,Washington,True
+fbi9.txt,A check,False
+fbi9.txt,an alert postal employee,False
+fbi9.txt,no such address,False
+fbi9.txt,Seattle,True
+fbi9.txt,This employee,False
+fbi9.txt,she,False
+fbi9.txt,the sender,False
+fbi9.txt,a Middle Eastern man,False
+fbi9.txt,who,False
+fbi9.txt,cash,False
+fbi9.txt,the postage,False
+fbi9.txt,The packages,False
+fbi9.txt,the Seattle police,False
+fbi9.txt,who,False
+fbi9.txt,them,False
+fbi9.txt,they,False
+fbi9.txt,package bombs,False
+fbi9.txt,which,False
+fbi9.txt,they,False
+fbi9.txt,They,False
+fbi9.txt,a vacant field,False
+fbi9.txt,the police,False
+fbi9.txt,such purposes,False
+se1.txt,a mobile phone message,False
+se1.txt,6 April,False
+se1.txt,The first number,False
+se1.txt,a resident,False
+se1.txt,Columbus,True
+se1.txt,Georgia,True
+se1.txt,whose address,False
+se1.txt,2237 St. Mary's Road,False
+se1.txt,The resident,False
+se1.txt,this address,False
+se1.txt,Ralph Goode,True
+se1.txt,his mobile phone,False
+se1.txt,his car,False
+se1.txt,he,False
+se1.txt,he,False
+se1.txt,30 March,False
+se1.txt,the Columbus police,False
+se1.txt,The Columbus police,False
+se1.txt,this account,False
+se1.txt,The second number,False
+se1.txt,2339 Little York Rd,False
+se1.txt,Apt,False
+se1.txt,Houston,True
+se1.txt,Texas,True
+se1.txt,The caller,False
+se1.txt,Arabic,True
+se1.txt,What,False
+se1.txt,you,False
+se1.txt,the usual place,False
+se1.txt,The second number,False
+se1.txt,Sprint PCS,True
+se1.txt,a Jamal Kalifa,True
+se2.txt,lntercept,False
+se2.txt,phone calls,False
+se2.txt,2462 Myrtle Ave,False
+se2.txt,Apt.,False
+se2.txt,Queens,True
+se2.txt,NYC,True
+se2.txt,several calls,False
+se2.txt,a phone,False
+se2.txt,North Bergen,True
+se2.txt,the name,False
+se2.txt,Hani al-Hallak,True
+se2.txt,who,False
+se2.txt,a carpet store,False
+se2.txt,the latest call,False
+se2.txt,the caller,False
+se2.txt,2462 Myrtle Ave. Apt.,False
+se2.txt,Queens,True
+se2.txt,NYC,True
+se2.txt,he,False
+se2.txt,the carpet,False
+se2.txt,he,False
+se2.txt,April,False
+se3.txt,Frequent recent phone calls,False
+se3.txt,the following numbers,False
+se3.txt,[Richmond,False
+se3.txt,VA,True
+se3.txt,the name,False
+se3.txt,Clark Webster,True
+se3.txt,[Charlottesville,False
+se3.txt,VA,True
+se3.txt,the name,False
+se3.txt,Mukhtar Galab,True
+se3.txt,Queens,True
+se3.txt,NYC,True
+se3.txt,the name,False
+se3.txt,Bagwant Dhaliwal,True
+se3.txt,Two overseas calls,False
+se3.txt,[Amsterdam,False
+se3.txt,The Netherlands,True
+se3.txt,the name,False
+se3.txt,Hans Pakes,True
+se4.txt,Phone calls,False
+se4.txt,22 April,False
+se4.txt,the following numbers,False
+se4.txt,The same brief voice message,False
+se4.txt,Arabic,True
+se4.txt,each call,False
+se4.txt,A translation,False
+se4.txt,this message,False
+se4.txt,I,False
+se4.txt,my office,False
+se4.txt,April,False
+se4.txt,OOAM,True
+se4.txt,time,False
+se5.txt,Intercept,False
+se5.txt,cell phone,False
+se5.txt,a very brief call,False
+se5.txt,this number,False
+se5.txt,phone number,False
+se5.txt,26 April,False
+se5.txt,the caller,False
+se5.txt,Arabic,True
+se5.txt,A translation,False
+se5.txt,We,False
+se5.txt,the crescent,False
+se5.txt,victory,False

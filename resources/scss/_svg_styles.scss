@@ -1,0 +1,56 @@
+/**
+ * Styles for the month controls
+ */
+
+svg {
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+svg {
+  g {
+    &.entity-box {
+      rect {
+        &.entity-rect {
+          border: 1px solid #333333;
+
+          &.entity-rect-who {
+            fill: #647687;
+            color: #000000;
+          }
+
+          &.entity-rect-where {
+            fill: #7f8764;
+            color: #000000;
+          }
+
+          &.entity-rect-when {
+            fill: #766487;
+            color: #000000;
+          }
+
+          &.entity-rect-what {
+            fill: #87646a;
+            color: #000000;
+          }
+        }
+      }
+
+      text {
+        fill: #ffffff;
+        font-size: 12px;
+      }
+    }
+  }
+  .entity-connection {
+    stroke: #000000;
+    &.entity-connection-who-where {
+      stroke: #647687;
+    }
+    &.entity-connection-where-when {
+      stroke: #7f8764;
+    }
+    &.entity-connection-when-what {
+      stroke: #766487;
+    }
+  }
+}

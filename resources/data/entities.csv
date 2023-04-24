@@ -1,0 +1,940 @@
+file,entity,entity_type
+cia1.txt,"30 March, 2003",DATE
+cia1.txt,the British Special Branch,ORG
+cia1.txt,Qatada,PERSON
+cia1.txt,#11 St. Mary's Terrace,QUANTITY
+cia1.txt,addington,GPE
+cia1.txt,London,GPE
+cia1.txt,Qatada,PERSON
+cia1.txt,10 ounces,QUANTITY
+cia1.txt,Reid,PERSON
+cia1.txt,American Airlines #,ORG
+cia1.txt,Paris,GPE
+cia1.txt,Miami,GPE
+cia1.txt,"22 December, 2001",DATE
+cia1.txt,BSB,ORG
+cia1.txt,Qatada,PERSON
+cia1.txt,Moslem,NORP
+cia1.txt,London,GPE
+cia1.txt,M15,PRODUCT
+cia1.txt,arrested,VERB
+cia1.txt,Found,VERB
+cia1.txt,holding,VERB
+cia1.txt,attempted,VERB
+cia1.txt,use,VERB
+cia1.txt,alerted,VERB
+cia1.txt,follow,VERB
+cia1.txt,detain,VERB
+cia1.txt,obtained,VERB
+cia1.txt,provided,VERB
+cia10.txt,Holland Queen,PRODUCT
+cia10.txt,Pakes,PERSON
+cia10.txt,Holland,ORG
+cia10.txt,Pakes,PERSON
+cia10.txt,Al Qaeda,ORG
+cia10.txt,Afghanistan,GPE
+cia10.txt,Kandahar,GPE
+cia10.txt,1996,DATE
+cia10.txt,Masri,PERSON
+cia10.txt,Yemeni,NORP
+cia10.txt,The Netherlands,GPE
+cia10.txt,January 1996,DATE
+cia10.txt,Pakes,PERSON
+cia10.txt,lists,VERB
+cia10.txt,named,VERB
+cia10.txt,works,VERB
+cia10.txt,captured,VERB
+cia10.txt,listed,VERB
+cia10.txt,says,VERB
+cia10.txt,left,VERB
+cia11.txt,Afghanistan,GPE
+cia11.txt,Pakistani,NORP
+cia11.txt,Albakri,PERSON
+cia11.txt,Taliban,ORG
+cia11.txt,1990 - 1992,DATE
+cia11.txt,Indian,NORP
+cia11.txt,Dhaliwal,PERSON
+cia11.txt,Harazi,PERSON
+cia11.txt,Taliban,ORG
+cia11.txt,1987 - 1993,DATE
+cia11.txt,Harazi,PERSON
+cia11.txt,USA,GPE
+cia11.txt,"March, 1993",DATE
+cia11.txt,Ramazi,PERSON
+cia11.txt,captured,VERB
+cia11.txt,learned,VERB
+cia11.txt,named,VERB
+cia11.txt,fought,VERB
+cia11.txt,travels,VERB
+cia11.txt,found,VERB
+cia11.txt,sewed,VERB
+cia11.txt,reveal,VERB
+cia11.txt,entered,VERB
+cia11.txt,uses,VERB
+cia2.txt,CIA,ORG
+cia2.txt,March of 2003,DATE
+cia2.txt,Hada,PERSON
+cia2.txt,April 2003,DATE
+cia2.txt,reported,VERB
+cia2.txt,Asked,VERB
+cia2.txt,meant,VERB
+cia2.txt,said,VERB
+cia2.txt,figure,VERB
+cia2.txt,elaborate,VERB
+cia3.txt,French,NORP
+cia3.txt,Egyptian,NORP
+cia3.txt,Shamzai,PERSON
+cia3.txt,16,CARDINAL
+cia3.txt,Paris,GPE
+cia3.txt,"8 April, 2002",DATE
+cia3.txt,200,CARDINAL
+cia3.txt,USA,GPE
+cia3.txt,180,CARDINAL
+cia3.txt,British,NORP
+cia3.txt,Shamzi,PERSON
+cia3.txt,USA,GPE
+cia3.txt,British,NORP
+cia3.txt,Shamzi,PERSON
+cia3.txt,One,CARDINAL
+cia3.txt,Yaser,PERSON
+cia3.txt,1660,CARDINAL
+cia3.txt,Coal Mine Road,FAC
+cia3.txt,206,CARDINAL
+cia3.txt,Denver,GPE
+cia3.txt,Colorado,GPE
+cia3.txt,USA,GPE
+cia3.txt,USA,GPE
+cia3.txt,Lozario,PERSON
+cia3.txt,2229,CARDINAL
+cia3.txt,Marshall Avenue,FAC
+cia3.txt,Minneapolis,GPE
+cia3.txt,Minnesota,GPE
+cia3.txt,USA,GPE
+cia3.txt,third,ORDINAL
+cia3.txt,USA,GPE
+cia3.txt,Maulid,PERSON
+cia3.txt,656,CARDINAL
+cia3.txt,Laurel Avenue,FAC
+cia3.txt,Bowling Green,GPE
+cia3.txt,Kentucky,GPE
+cia3.txt,USA,GPE
+cia3.txt,Acting,VERB
+cia3.txt,arrested,VERB
+cia3.txt,named,VERB
+cia3.txt,found,VERB
+cia3.txt,forged,VERB
+cia3.txt,listed,VERB
+cia3.txt,forged,VERB
+cia3.txt,forged,VERB
+cia4.txt,Guantanamo,FAC
+cia4.txt,daily,DATE
+cia4.txt,Shibh,PERSON
+cia4.txt,Al Qaeda,ORG
+cia4.txt,Sudan,GPE
+cia4.txt,1994,DATE
+cia4.txt,Afghanistan,GPE
+cia4.txt,Shibh,PERSON
+cia4.txt,UAE,GPE
+cia4.txt,Goba,PERSON
+cia4.txt,INS,ORG
+cia4.txt,Goba,PERSON
+cia4.txt,UAE,GPE
+cia4.txt,USA,GPE
+cia4.txt,January of 2003,DATE
+cia4.txt,Webster,PERSON
+cia4.txt,Richmond,GPE
+cia4.txt,Goba,PERSON
+cia4.txt,1631,CARDINAL
+cia4.txt,Capitol Ave,LOC
+cia4.txt,Richmond VA,GPE
+cia4.txt,804-759-6302,CARDINAL
+cia4.txt,says,VERB
+cia4.txt,trained,VERB
+cia4.txt,named,VERB
+cia4.txt,captured,VERB
+cia4.txt,learned,VERB
+cia4.txt,holds,VERB
+cia4.txt,reveals,VERB
+cia4.txt,entered,VERB
+cia4.txt,stating,VERB
+cia4.txt,visiting,VERB
+cia4.txt,named,VERB
+cia4.txt,given,VERB
+cia5.txt,19 April,DATE
+cia5.txt,the American Diplomatic Mission Headquarters,FAC
+cia5.txt,Buenos Aires,GPE
+cia5.txt,Musawi,PERSON
+cia5.txt,Hezboliah,ORG
+cia5.txt,Latin American,NORP
+cia5.txt,set,VERB
+cia5.txt,gone,VERB
+cia5.txt,carrying,VERB
+cia5.txt,Survived,VERB
+cia5.txt,identified,VERB
+cia5.txt,known,VERB
+cia6.txt,"20 April, 2003",DATE
+cia6.txt,German,NORP
+cia6.txt,Bremerhaven,GPE
+cia6.txt,Germany,GPE
+cia6.txt,four,CARDINAL
+cia6.txt,Stinger,PRODUCT
+cia6.txt,Marvel Corporation,ORG
+cia6.txt,1632,CARDINAL
+cia6.txt,Trenton Avenue,FAC
+cia6.txt,Trenton,GPE
+cia6.txt,New Jersey,GPE
+cia6.txt,USA,GPE
+cia6.txt,16,CARDINAL
+cia6.txt,Hamburg,GPE
+cia6.txt,Germany,GPE
+cia6.txt,German,NORP
+cia6.txt,Hamburg,GPE
+cia6.txt,four,CARDINAL
+cia6.txt,Stinger,PRODUCT
+cia6.txt,nearly 400,CARDINAL
+cia6.txt,Stinger,PRODUCT
+cia6.txt,the late 1980s,DATE
+cia6.txt,Taliban,ORG
+cia6.txt,Afghanistan,GPE
+cia6.txt,reported,VERB
+cia6.txt,chosen,VERB
+cia6.txt,contained,VERB
+cia6.txt,addressed,VERB
+cia6.txt,given,VERB
+cia6.txt,advises,VERB
+cia6.txt,identifies,VERB
+cia6.txt,missing,VERB
+cia6.txt,given,VERB
+cia7.txt,Two,CARDINAL
+cia7.txt,"April 20,2003",DATE
+cia7.txt,Dutch,NORP
+cia7.txt,Haarlem,GPE
+cia7.txt,The Netherlands,GPE
+cia7.txt,"April 21, 2003",DATE
+cia7.txt,Adel,PERSON
+cia7.txt,Khaliad,PERSON
+cia7.txt,Hamburg,GPE
+cia7.txt,Germany,GPE
+cia7.txt,Al Qaeda,ORG
+cia7.txt,Europe,LOC
+cia7.txt,Hamburg,GPE
+cia7.txt,Germany,GPE
+cia7.txt,arrested,VERB
+cia7.txt,leaving,VERB
+cia7.txt,involved,VERB
+cia7.txt,identified,VERB
+cia7.txt,wanted,VERB
+cia7.txt,driving,VERB
+cia7.txt,rented,VERB
+cia7.txt,found,VERB
+cia8.txt,Haarlem,GPE
+cia8.txt,Adal,PERSON
+cia8.txt,Khallad,PERSON
+cia8.txt,Haarlem,GPE
+cia8.txt,two,CARDINAL
+cia8.txt,Saudi,NORP
+cia8.txt,Dutch,NORP
+cia8.txt,Nijboer,PERSON
+cia8.txt,206,CARDINAL
+cia8.txt,two,CARDINAL
+cia8.txt,Ahdal,PERSON
+cia8.txt,Attash,PERSON
+cia8.txt,Sealink Container Corp.,ORG
+cia8.txt,Amsterdam,GPE
+cia8.txt,206,CARDINAL
+cia8.txt,"23 April, 2003",DATE
+cia8.txt,one,CARDINAL
+cia8.txt,two,CARDINAL
+cia8.txt,Lublin,GPE
+cia8.txt,Poland,GPE
+cia8.txt,found,VERB
+cia8.txt,driven,VERB
+cia8.txt,rented,VERB
+cia8.txt,hold,VERB
+cia8.txt,says,VERB
+cia8.txt,rent,VERB
+cia8.txt,employed,VERB
+cia8.txt,owns,VERB
+cia8.txt,shipped,VERB
+cia8.txt,hauled,VERB
+cia8.txt,reveals,VERB
+cia8.txt,found,VERB
+cia8.txt,revealing,VERB
+cia8.txt,labeled,VERB
+cia8.txt,identify,VERB
+cia9.txt,Adel,PERSON
+cia9.txt,Khallad,PERSON
+cia9.txt,Ahdal,PERSON
+cia9.txt,Attash,PERSON
+cia9.txt,One ounce,QUANTITY
+cia9.txt,60,CARDINAL
+cia9.txt,found,VERB
+cia9.txt,driven,VERB
+cia9.txt,rented,VERB
+cia9.txt,reveals,VERB
+cia9.txt,powdered,VERB
+cia9.txt,spread,VERB
+fbi1.txt,Ramazi,PERSON
+fbi1.txt,Select Gourmet Foods,ORG
+fbi1.txt,Springfield Mall,FAC
+fbi1.txt,Springfield,GPE
+fbi1.txt,VA,GPE
+fbi1.txt,703-659-,CARDINAL
+fbi1.txt,First Union National Bank,ORG
+fbi1.txt,Select Gourmet Foods,ORG
+fbi1.txt,1070173749003,CARDINAL
+fbi1.txt,Six,CARDINAL
+fbi1.txt,"35,000",MONEY
+fbi1.txt,the past four months,DATE
+fbi1.txt,the Pyramid Bank,ORG
+fbi1.txt,Cairo,GPE
+fbi1.txt,Egypt,GPE
+fbi1.txt,the Central Bank,ORG
+fbi1.txt,Dubai,GPE
+fbi1.txt,UAE,GPE
+fbi1.txt,lists,VERB
+fbi1.txt,holding,VERB
+fbi1.txt,totaling,VERB
+fbi1.txt,deposited,VERB
+fbi1.txt,recorded,VERB
+fbi1.txt,drawn,VERB
+fbi1.txt,listed,VERB
+fbi10.txt,the New York Stock Exchange,ORG
+fbi10.txt,NYSE,ORG
+fbi10.txt,NYSE,ORG
+fbi10.txt,Clark,PERSON
+fbi10.txt,the City Computer Services Corp.,ORG
+fbi10.txt,NYSE,ORG
+fbi10.txt,"12 December, 2001",DATE
+fbi10.txt,six months,DATE
+fbi10.txt,Watson,PERSON
+fbi10.txt,the Clark & Co. Office Supplies Co.,ORG
+fbi10.txt,1631,CARDINAL
+fbi10.txt,Webster Ave,LOC
+fbi10.txt,The Bronx,GPE
+fbi10.txt,NYC,GPE
+fbi10.txt,Watson,PERSON
+fbi10.txt,Davis,PERSON
+fbi10.txt,32 years,DATE
+fbi10.txt,New York State Driver's,ORG
+fbi10.txt,1999,DATE
+fbi10.txt,Empire State Vending Services,ORG
+fbi10.txt,Manhattan,GPE
+fbi10.txt,2462,CARDINAL
+fbi10.txt,307,CARDINAL
+fbi10.txt,Queens,GPE
+fbi10.txt,NYC,GPE
+fbi10.txt,reveals,VERB
+fbi10.txt,hold,VERB
+fbi10.txt,allow,VERB
+fbi10.txt,provided,VERB
+fbi10.txt,accompanied,VERB
+fbi10.txt,named,VERB
+fbi10.txt,employed,VERB
+fbi10.txt,failed,VERB
+fbi10.txt,report,VERB
+fbi10.txt,served,VERB
+fbi10.txt,employed,VERB
+fbi10.txt,gave,VERB
+fbi10.txt,named,VERB
+fbi10.txt,reported,VERB
+fbi10.txt,obtained,VERB
+fbi10.txt,believed,VERB
+fbi10.txt,forged,VERB
+fbi10.txt,employed,VERB
+fbi10.txt,services,VERB
+fbi10.txt,lists,VERB
+fbi11.txt,INS,ORG
+fbi11.txt,Galab,PERSON
+fbi11.txt,Mosed,PERSON
+fbi11.txt,the University  of Virginia,ORG
+fbi11.txt,Charlottesville,GPE
+fbi11.txt,Virginia,GPE
+fbi11.txt,the University of Virginia,ORG
+fbi11.txt,two,CARDINAL
+fbi11.txt,the past two semesters,DATE
+fbi11.txt,the University of Virginia,ORG
+fbi11.txt,2932,CARDINAL
+fbi11.txt,University Drive,FAC
+fbi11.txt,Charlottesville,GPE
+fbi11.txt,VA,GPE
+fbi11.txt,Sprint,ORG
+fbi11.txt,804- 774-8920,CARDINAL
+fbi11.txt,Galab,PERSON
+fbi11.txt,expired,VERB
+fbi11.txt,reveals,VERB
+fbi11.txt,enrolled,VERB
+fbi11.txt,reveal,VERB
+fbi11.txt,attended,VERB
+fbi11.txt,gave,VERB
+fbi11.txt,living,VERB
+fbi11.txt,shows,VERB
+fbi11.txt,registered,VERB
+fbi12.txt,Watson,PERSON
+fbi12.txt,NYSE,ORG
+fbi12.txt,said,VERB
+fbi12.txt,listing,VERB
+fbi12.txt,moved,VERB
+fbi12.txt,gave,VERB
+fbi13.txt,2462,CARDINAL
+fbi13.txt,307,CARDINAL
+fbi13.txt,Queens,GPE
+fbi13.txt,NYC,GPE
+fbi13.txt,Dhaliwal,PERSON
+fbi13.txt,Empire State Vending Services,ORG
+fbi13.txt,Manhattan,GPE
+fbi13.txt,listing,VERB
+fbi13.txt,employed,VERB
+fbi14.txt,O'Hare airport,FAC
+fbi14.txt,Chicago,GPE
+fbi14.txt,Illinois,GPE
+fbi14.txt,two,CARDINAL
+fbi14.txt,American Airlines,ORG
+fbi14.txt,Clark,PERSON
+fbi14.txt,Nizar,PERSON
+fbi14.txt,United Connector,ORG
+fbi14.txt,Green Bay,GPE
+fbi14.txt,Wisconsin,GPE
+fbi14.txt,United,ORG
+fbi14.txt,New York City,GPE
+fbi14.txt,FBI,ORG
+fbi14.txt,arrested,VERB
+fbi14.txt,named,VERB
+fbi14.txt,observed,VERB
+fbi14.txt,opening,VERB
+fbi14.txt,transferred,VERB
+fbi14.txt,investigated,VERB
+fbi15.txt,Galab,PERSON
+fbi15.txt,the Virginia National Bank,ORG
+fbi15.txt,Charlottesville,GPE
+fbi15.txt,VA,GPE
+fbi15.txt,the last three months,DATE
+fbi15.txt,"13,000",MONEY
+fbi15.txt,1070173749003,CARDINAL
+fbi15.txt,Ramazi,PERSON
+fbi15.txt,the First Union Bank,ORG
+fbi15.txt,Springfield,GPE
+fbi15.txt,VA,GPE
+fbi15.txt,deposited,VERB
+fbi15.txt,totaling,VERB
+fbi15.txt,drawn,VERB
+fbi15.txt,held,VERB
+fbi16.txt,Hallak,PERSON
+fbi16.txt,North Bergen,GPE
+fbi16.txt,New Jersey,GPE
+fbi16.txt,First Union Bank,ORG
+fbi16.txt,1070173749003,CARDINAL
+fbi16.txt,Springfield,GPE
+fbi16.txt,VA,GPE
+fbi16.txt,Ramazi,PERSON
+fbi16.txt,"16 April, 2003",DATE
+fbi16.txt,8500,MONEY
+fbi16.txt,deposited,VERB
+fbi16.txt,drawn,VERB
+fbi16.txt,dated,VERB
+fbi17.txt,1631,CARDINAL
+fbi17.txt,Capitol Ave,LOC
+fbi17.txt,Richmond,GPE
+fbi17.txt,Virginia,GPE
+fbi17.txt,Sprint,ORG
+fbi17.txt,Goba,PERSON
+fbi17.txt,given,VERB
+fbi17.txt,registered,VERB
+fbi18.txt,Colfax Avenue,FAC
+fbi18.txt,Denver,GPE
+fbi18.txt,Colorado,GPE
+fbi18.txt,Camp George West Military Reservation,FAC
+fbi18.txt,two,CARDINAL
+fbi18.txt,16,CARDINAL
+fbi18.txt,The U-haul rental Agency,ORG
+fbi18.txt,Denver,GPE
+fbi18.txt,Denver,GPE
+fbi18.txt,"20 April, 2003",DATE
+fbi18.txt,Colorado,GPE
+fbi18.txt,Yaser,PERSON
+fbi18.txt,1660 Coal Mine Road,FAC
+fbi18.txt,206,CARDINAL
+fbi18.txt,"22 April, 2003",DATE
+fbi18.txt,Yaser,PERSON
+fbi18.txt,206,CARDINAL
+fbi18.txt,one week ago,DATE
+fbi18.txt,found,VERB
+fbi18.txt,abandoned,VERB
+fbi18.txt,revealed,VERB
+fbi18.txt,contacted,VERB
+fbi18.txt,reported,VERB
+fbi18.txt,rented,VERB
+fbi18.txt,stated,VERB
+fbi18.txt,rented,VERB
+fbi18.txt,left,VERB
+fbi18.txt,leave,VERB
+fbi18.txt,folwarding,VERB
+fbi19.txt,AMTRAK,ORG
+fbi19.txt,Charlottesville,GPE
+fbi19.txt,Goba,PERSON
+fbi19.txt,"23 April, 2003",DATE
+fbi19.txt,three,CARDINAL
+fbi19.txt,one,CARDINAL
+fbi19.txt,first,ORDINAL
+fbi19.txt,one,CARDINAL
+fbi19.txt,Charlottesville,GPE
+fbi19.txt,VA,GPE
+fbi19.txt,Atlanta,GPE
+fbi19.txt,GA,GPE
+fbi19.txt,"29 April, 2003",DATE
+fbi19.txt,AMTRAK Train # 19,PRODUCT
+fbi19.txt,Penn Station NYC,ORG
+fbi19.txt,New Orleans,GPE
+fbi19.txt,LA,GPE
+fbi19.txt,Goba,PERSON
+fbi19.txt,Galab,PERSON
+fbi19.txt,Mosed,PERSON
+fbi19.txt,reveals,VERB
+fbi19.txt,paid,VERB
+fbi19.txt,sleeping,VERB
+fbi19.txt,runs,VERB
+fbi2.txt,Dulles Airport,FAC
+fbi2.txt,Washington DC,GPE
+fbi2.txt,Ramazi,PERSON
+fbi2.txt,USA,GPE
+fbi2.txt,177183634,CARDINAL
+fbi2.txt,Passport Agency,ORG
+fbi2.txt,Washington DC,GPE
+fbi2.txt,12 Feb. 19971,DATE
+fbi2.txt,three,CARDINAL
+fbi2.txt,Amsterdam,GPE
+fbi2.txt,two,CARDINAL
+fbi2.txt,Hamburg,GPE
+fbi2.txt,Germany,GPE
+fbi2.txt,three,CARDINAL
+fbi2.txt,Cairo,GPE
+fbi2.txt,Egypt,GPE
+fbi2.txt,the last five months,DATE
+fbi2.txt,Ramazi,PERSON
+fbi2.txt,1176,CARDINAL
+fbi2.txt,Springfield,GPE
+fbi2.txt,VA,GPE
+fbi2.txt,703-734-0104,CARDINAL
+fbi2.txt,records,VERB
+fbi2.txt,issued,VERB
+fbi2.txt,given,VERB
+fbi20.txt,Richmond,GPE
+fbi20.txt,Charlottesville,GPE
+fbi20.txt,Ramzi,PERSON
+fbi20.txt,# 174,CARDINAL
+fbi20.txt,"10 April, 2003",DATE
+fbi20.txt,the Budget Storage Units,ORG
+fbi20.txt,Keswick,GPE
+fbi20.txt,VA,GPE
+fbi20.txt,Ramzi,PERSON
+fbi20.txt,2932,CARDINAL
+fbi20.txt,University Drive,FAC
+fbi20.txt,Charlottesville,GPE
+fbi20.txt,VA,GPE
+fbi20.txt,Ramzi,PERSON
+fbi20.txt,month,DATE
+fbi20.txt,rented,VERB
+fbi20.txt,reveals,VERB
+fbi20.txt,giving,VERB
+fbi20.txt,rented,VERB
+fbi20.txt,gave,VERB
+fbi20.txt,paid,VERB
+fbi21.txt,USA,GPE
+fbi21.txt,96 hours,TIME
+fbi21.txt,USA,GPE
+fbi21.txt,Amsterdam,GPE
+fbi21.txt,"25 April, 2003",DATE
+fbi21.txt,one,CARDINAL
+fbi21.txt,USA,GPE
+fbi21.txt,the Holland Queen,PRODUCT
+fbi21.txt,Boston,GPE
+fbi21.txt,Boston,GPE
+fbi21.txt,the Holland Queen,PRODUCT
+fbi21.txt,"29 April, 1930hrs",DATE
+fbi21.txt,bound,VERB
+fbi21.txt,contains,VERB
+fbi21.txt,required,VERB
+fbi21.txt,lists,VERB
+fbi21.txt,bound,VERB
+fbi21.txt,bound,VERB
+fbi22.txt,Davis,PERSON
+fbi22.txt,Canadian,NORP
+fbi22.txt,NYC,GPE
+fbi22.txt,Canadian,NORP
+fbi22.txt,Alwan,PERSON
+fbi22.txt,Saudi,NORP
+fbi22.txt,Canada,GPE
+fbi22.txt,Alwan,PERSON
+fbi22.txt,Sudan,GPE
+fbi22.txt,Afghanistan,GPE
+fbi22.txt,examined,VERB
+fbi22.txt,identified,VERB
+fbi22.txt,overstayed,VERB
+fbi22.txt,wanted,VERB
+fbi22.txt,known,VERB
+fbi22.txt,received,VERB
+fbi23.txt,Louis,PERSON
+fbi23.txt,3410 Van Dyke Avenue,FAC
+fbi23.txt,Detroit,GPE
+fbi23.txt,Michigan,GPE
+fbi23.txt,Detroit,GPE
+fbi23.txt,Michigan,GPE
+fbi23.txt,Louis,PERSON
+fbi23.txt,Lebanese,NORP
+fbi23.txt,Kherbane,PERSON
+fbi23.txt,2 April,DATE
+fbi23.txt,the Beth Israel Synagogue,FAC
+fbi23.txt,Detroit,GPE
+fbi23.txt,Michigan,GPE
+fbi23.txt,named,VERB
+fbi23.txt,arrested,VERB
+fbi23.txt,helping,VERB
+fbi23.txt,obtain,VERB
+fbi23.txt,charged,VERB
+fbi23.txt,providing,VERB
+fbi23.txt,named,VERB
+fbi23.txt,arrested,VERB
+fbi23.txt,attempted,VERB
+fbi24.txt,#I74,CARDINAL
+fbi24.txt,the Budget Storage Units,FAC
+fbi24.txt,Keswick,GPE
+fbi24.txt,VA,GPE
+fbi24.txt,fifty pounds,QUANTITY
+fbi24.txt,C-4 plastic,PRODUCT
+fbi24.txt,found,VERB
+fbi24.txt,fusing,VERB
+fbi25.txt,"the early morning hours of April 26,2003",TIME
+fbi25.txt,Hallak,PERSON
+fbi25.txt,North Bergen,GPE
+fbi25.txt,the night before,TIME
+fbi25.txt,C-4,PRODUCT
+fbi25.txt,Hallak,PERSON
+fbi25.txt,Hallak,PERSON
+fbi25.txt,Canada,GPE
+fbi25.txt,reported,VERB
+fbi25.txt,managed,VERB
+fbi25.txt,started,VERB
+fbi25.txt,tossed,VERB
+fbi25.txt,extinguishing,VERB
+fbi25.txt,discovered,VERB
+fbi25.txt,labeled,VERB
+fbi25.txt,contained,VERB
+fbi25.txt,reach,VERB
+fbi25.txt,told,VERB
+fbi25.txt,gone,VERB
+fbi25.txt,left,VERB
+fbi3.txt,"7 April, 2003",DATE
+fbi3.txt,0600 hrs,TIME
+fbi3.txt,Ryder Truck Rental,ORG
+fbi3.txt,Culver City,GPE
+fbi3.txt,California,GPE
+fbi3.txt,Ryder,ORG
+fbi3.txt,"1 April, 2003",DATE
+fbi3.txt,Bensaid,PERSON
+fbi3.txt,Bensaid,PERSON
+fbi3.txt,California,GPE
+fbi3.txt,452,CARDINAL
+fbi3.txt,Hubbard St.,FAC
+fbi3.txt,Culver City,GPE
+fbi3.txt,Bensaid,PERSON
+fbi3.txt,Ryder,ORG
+fbi3.txt,two days,DATE
+fbi3.txt,Culver City,GPE
+fbi3.txt,San Gabriel,GPE
+fbi3.txt,California,GPE
+fbi3.txt,6 April,DATE
+fbi3.txt,Ryder,ORG
+fbi3.txt,Los Angeles,GPE
+fbi3.txt,FBI,ORG
+fbi3.txt,"6 April, 2003",DATE
+fbi3.txt,LA,GPE
+fbi3.txt,Greenlawn Ave,FAC
+fbi3.txt,Culver City,GPE
+fbi3.txt,7 April,DATE
+fbi3.txt,two,CARDINAL
+fbi3.txt,US 405,FAC
+fbi3.txt,Imperial Highway,FAC
+fbi3.txt,Sheldon St.,FAC
+fbi3.txt,the City Park,FAC
+fbi3.txt,El Segundo,GPE
+fbi3.txt,California,GPE
+fbi3.txt,two,CARDINAL
+fbi3.txt,FBI,ORG
+fbi3.txt,two,CARDINAL
+fbi3.txt,Los Angeles,GPE
+fbi3.txt,LAX,FAC
+fbi3.txt,began,VERB
+fbi3.txt,tailing,VERB
+fbi3.txt,rented,VERB
+fbi3.txt,According,VERB
+fbi3.txt,rented,VERB
+fbi3.txt,gave,VERB
+fbi3.txt,showed,VERB
+fbi3.txt,gave,VERB
+fbi3.txt,told,VERB
+fbi3.txt,need,VERB
+fbi3.txt,returned,VERB
+fbi3.txt,notified,VERB
+fbi3.txt,notified,VERB
+fbi3.txt,noticed,VERB
+fbi3.txt,parked,VERB
+fbi3.txt,observed,VERB
+fbi3.txt,enter,VERB
+fbi3.txt,drove,VERB
+fbi3.txt,exited,VERB
+fbi3.txt,turned,VERB
+fbi3.txt,stopped,VERB
+fbi3.txt,apprehended,VERB
+fbi3.txt,found,VERB
+fbi4.txt,Wilson,PERSON
+fbi4.txt,1730hrs,TIME
+fbi4.txt,"10 April, 2003",DATE
+fbi4.txt,Camp George West Military Reservation,FAC
+fbi4.txt,Denver,GPE
+fbi4.txt,Colorado,GPE
+fbi4.txt,Wilson,PERSON
+fbi4.txt,Colorado,GPE
+fbi4.txt,Social security,ORG
+fbi4.txt,the Apex Paper Products Company,ORG
+fbi4.txt,Denver,GPE
+fbi4.txt,Colorado,GPE
+fbi4.txt,Camp George West,FAC
+fbi4.txt,Wilson,PERSON
+fbi4.txt,Aryan Nations,ORG
+fbi4.txt,Wilson,PERSON
+fbi4.txt,Apex,PRODUCT
+fbi4.txt,Camp George West,FAC
+fbi4.txt,50,CARDINAL
+fbi4.txt,Cal,ORG
+fbi4.txt,gave,VERB
+fbi4.txt,arrested,VERB
+fbi4.txt,obtain,VERB
+fbi4.txt,driving,VERB
+fbi4.txt,owned,VERB
+fbi4.txt,supply,VERB
+fbi4.txt,known,VERB
+fbi4.txt,known,VERB
+fbi4.txt,arrested,VERB
+fbi4.txt,seen,VERB
+fbi4.txt,loading,VERB
+fbi4.txt,taken,VERB
+fbi4.txt,contained,VERB
+fbi5.txt,Border Patrol,ORG
+fbi5.txt,El Paso,GPE
+fbi5.txt,Texas,GPE
+fbi5.txt,Hudspeth County,GPE
+fbi5.txt,Texas,GPE
+fbi5.txt,"the night of 10 April, 2003",TIME
+fbi5.txt,two,CARDINAL
+fbi5.txt,first,ORDINAL
+fbi5.txt,Mexicans,NORP
+fbi5.txt,the Rio Grande river,LOC
+fbi5.txt,McNary,GPE
+fbi5.txt,Texas,GPE
+fbi5.txt,McNary,GPE
+fbi5.txt,"20,000",MONEY
+fbi5.txt,two,CARDINAL
+fbi5.txt,Spanish,LANGUAGE
+fbi5.txt,Texas,GPE
+fbi5.txt,Cortez,PERSON
+fbi5.txt,Gueterrez,PERSON
+fbi5.txt,1212,CARDINAL
+fbi5.txt,McRae Blvd,FAC
+fbi5.txt,El Paso,GPE
+fbi5.txt,Texas,GPE
+fbi5.txt,one,CARDINAL
+fbi5.txt,American Airlines,ORG
+fbi5.txt,El Paso,GPE
+fbi5.txt,Houston,GPE
+fbi5.txt,Texas,GPE
+fbi5.txt,El Paso,GPE
+fbi5.txt,"16 April, 2003",DATE
+fbi5.txt,1212 McRae Blvd,FAC
+fbi5.txt,El Paso,GPE
+fbi5.txt,two,CARDINAL
+fbi5.txt,Hassine,PERSON
+fbi5.txt,Yassin,PERSON
+fbi5.txt,the University of Texas at El Paso,ORG
+fbi5.txt,reported,VERB
+fbi5.txt,apprehended,VERB
+fbi5.txt,believed,VERB
+fbi5.txt,crossing,VERB
+fbi5.txt,interrogated,VERB
+fbi5.txt,discovered,VERB
+fbi5.txt,carried,VERB
+fbi5.txt,interrogated,VERB
+fbi5.txt,spoke,VERB
+fbi5.txt,given,VERB
+fbi5.txt,scheduled,VERB
+fbi5.txt,leave,VERB
+fbi5.txt,revealed,VERB
+fbi5.txt,occupied,VERB
+fbi5.txt,named,VERB
+fbi5.txt,claim,VERB
+fbi6.txt,Adams,PERSON
+fbi6.txt,Middle Eastern,NORP
+fbi6.txt,Pentagon,ORG
+fbi6.txt,"13 April, 2003",DATE
+fbi6.txt,1830hrs,TIME
+fbi6.txt,Home Depot,ORG
+fbi6.txt,Lee Highway,FAC
+fbi6.txt,Merrifield,GPE
+fbi6.txt,VA,GPE
+fbi6.txt,Adams,PERSON
+fbi6.txt,FBI,ORG
+fbi6.txt,seen,VERB
+fbi6.txt,left,VERB
+fbi6.txt,treating,VERB
+fbi7.txt,The Powhatan Company,ORG
+fbi7.txt,C-4,PRODUCT
+fbi7.txt,Keswick,GPE
+fbi7.txt,Virginia,GPE
+fbi7.txt,"11 April, 2003",DATE
+fbi7.txt,200 pounds,QUANTITY
+fbi7.txt,C-4,PRODUCT
+fbi7.txt,including,VERB
+fbi7.txt,located,VERB
+fbi7.txt,reported,VERB
+fbi7.txt,accounted,VERB
+fbi8.txt,Two,CARDINAL
+fbi8.txt,"14 April, 2003",DATE
+fbi8.txt,Bush Intercontinental Airport,FAC
+fbi8.txt,Houston,GPE
+fbi8.txt,Texas,GPE
+fbi8.txt,Kalifa,PERSON
+fbi8.txt,Salman,PERSON
+fbi8.txt,Dutch,NORP
+fbi8.txt,Paris,GPE
+fbi8.txt,France,GPE
+fbi8.txt,Continental Airlines,ORG
+fbi8.txt,#458,CARDINAL
+fbi8.txt,Bush Intercontinental,FAC
+fbi8.txt,Houston,GPE
+fbi8.txt,Reagan National Airport,FAC
+fbi8.txt,Washington,GPE
+fbi8.txt,Washington DC,GPE
+fbi8.txt,arrested,VERB
+fbi8.txt,identified,VERB
+fbi8.txt,attempted,VERB
+fbi8.txt,purchase,VERB
+fbi8.txt,believed,VERB
+fbi8.txt,forged,VERB
+fbi8.txt,attempted,VERB
+fbi8.txt,purchase,VERB
+fbi9.txt,Seattle,GPE
+fbi9.txt,Washington,GPE
+fbi9.txt,"15 Apr 1, 2003",DATE
+fbi9.txt,USA,GPE
+fbi9.txt,Howell St.,FAC
+fbi9.txt,six,CARDINAL
+fbi9.txt,Seattle,GPE
+fbi9.txt,1635,CARDINAL
+fbi9.txt,Alder St,FAC
+fbi9.txt,Seattle,GPE
+fbi9.txt,Washington,GPE
+fbi9.txt,Seattle,GPE
+fbi9.txt,Middle Eastern,NORP
+fbi9.txt,Seattle,GPE
+fbi9.txt,reported,VERB
+fbi9.txt,marked,VERB
+fbi9.txt,sent,VERB
+fbi9.txt,revealed,VERB
+fbi9.txt,stated,VERB
+fbi9.txt,believed,VERB
+fbi9.txt,paid,VERB
+fbi9.txt,given,VERB
+fbi9.txt,treated,VERB
+fbi9.txt,set,VERB
+fbi9.txt,managed,VERB
+se1.txt,"6 April, 2003",DATE
+se1.txt,706-437-,CARDINAL
+se1.txt,713-556-,CARDINAL
+se1.txt,first,ORDINAL
+se1.txt,Columbus,GPE
+se1.txt,Georgia,GPE
+se1.txt,2237,CARDINAL
+se1.txt,St. Mary's Road,FAC
+se1.txt,Goode,PERSON
+se1.txt,30 March. 2003,DATE
+se1.txt,Columbus,GPE
+se1.txt,Columbus,GPE
+se1.txt,second,ORDINAL
+se1.txt,2339,CARDINAL
+se1.txt,7,CARDINAL
+se1.txt,Houston,GPE
+se1.txt,Texas,GPE
+se1.txt,706-437-,CARDINAL
+se1.txt,Arabic,LANGUAGE
+se1.txt,second,ORDINAL
+se1.txt,Sprint PCS,ORG
+se1.txt,Kalifa,PERSON
+se1.txt,traced,VERB
+se1.txt,claims,VERB
+se1.txt,stolen,VERB
+se1.txt,says,VERB
+se1.txt,reported,VERB
+se1.txt,verified,VERB
+se1.txt,traced,VERB
+se1.txt,speaking,VERB
+se1.txt,said,VERB
+se1.txt,translated,VERB
+se1.txt,need,VERB
+se1.txt,found,VERB
+se1.txt,listed,VERB
+se1.txt,belonging,VERB
+se2.txt,718-352-8479,CARDINAL
+se2.txt,307,CARDINAL
+se2.txt,Queens,GPE
+se2.txt,NYC,GPE
+se2.txt,732-455-6392,CARDINAL
+se2.txt,North Bergen,GPE
+se2.txt,New Jersey,GPE
+se2.txt,al-Hallak,PERSON
+se2.txt,307,CARDINAL
+se2.txt,Queens,GPE
+se2.txt,NYC,GPE
+se2.txt,"April 25,2003",DATE
+se2.txt,revealed,VERB
+se2.txt,manages,VERB
+se2.txt,announced,VERB
+se2.txt,pick,VERB
+se2.txt,ordered,VERB
+se3.txt,703-659,CARDINAL
+se3.txt,804-,CARDINAL
+se3.txt,Richmond,GPE
+se3.txt,VA,GPE
+se3.txt,Webster,PERSON
+se3.txt,804-774,CARDINAL
+se3.txt,Charlottesville,GPE
+se3.txt,VA,GPE
+se3.txt,Galab,PERSON
+se3.txt,718-,CARDINAL
+se3.txt,Queens,GPE
+se3.txt,NYC,GPE
+se3.txt,Dhaliwal,PERSON
+se3.txt,Two,CARDINAL
+se3.txt,Amsterdam,GPE
+se3.txt,The Netherlands,GPE
+se3.txt,Pakes,PERSON
+se3.txt,listed,VERB
+se3.txt,listed,VERB
+se3.txt,listed,VERB
+se3.txt,listed,VERB
+se4.txt,"22 April, 2003",DATE
+se4.txt,703-659,CARDINAL
+se4.txt,718-352,CARDINAL
+se4.txt,01 1207670734,CARDINAL
+se4.txt,Arabic,LANGUAGE
+se4.txt,April 30,DATE
+se4.txt,9,TIME
+se4.txt,:,TIME
+se4.txt,OOAM,TIME
+se4.txt,given,VERB
+se4.txt,reads,VERB
+se4.txt,Try,VERB
+se5.txt,804-774-,CARDINAL
+se5.txt,703-659-,CARDINAL
+se5.txt,"26 April, 2003",DATE
+se5.txt,Arabic,LANGUAGE
+se5.txt,speaks,VERB
+se5.txt,reads,VERB
