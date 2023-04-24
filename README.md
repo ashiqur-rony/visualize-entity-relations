@@ -15,7 +15,7 @@ This file contains the rendered HTML from the texts with highlighted entities.
 This file contains all the noun phrases from the texts. We did not use this file in the visualization.
 
 ### Data preprocessing
-The data preprocessing is done using `Spacy`. The source `notebook` for the preprocessing is available at: (https://gist.github.com/ashiqur-rony/d4016e3301b96b48252e7ea4dd3c293a) 
+The data preprocessing is done using `Spacy`. The source `notebook` for the preprocessing is available at: https://gist.github.com/ashiqur-rony/d4016e3301b96b48252e7ea4dd3c293a 
 
 ## Visualization
-A live version of the visual analytics tool is available at: (https://ashiqur-rony.github.io/visualize-entity-relations/)
+A live version of the visual analytics tool is available at: https://ashiqur-rony.github.io/visualize-entity-relations/
