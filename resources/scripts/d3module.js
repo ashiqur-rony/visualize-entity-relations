@@ -174,7 +174,9 @@ function draw_activity_visualization() {
  * @param transition transition animation
  */
 function drawEntities(entity_items, entity_type, entity_svg, x_position, transition) {
-    // Draw the PERSON entities
+    // Draw the entities of different types
+
+    // Draw the entity label
     const entity_label = entity_svg
         .append('text')
         .attr('class', 'entity-label entity-label-' + entity_type.toLowerCase())
@@ -183,6 +185,8 @@ function drawEntities(entity_items, entity_type, entity_svg, x_position, transit
         .attr('font-size', '15')
         .attr('font-weight', 'bold')
         .text(entity_type);
+
+    // Draw the entity boxes
     const entity_groups = entity_svg
         .selectAll('.entity-box-' + entity_type.toLowerCase())
         .data(entity_items)
@@ -204,6 +208,8 @@ function drawEntities(entity_items, entity_type, entity_svg, x_position, transit
         .attr('data-files', d => {
             return [...new Set(entities.filter(e => e.entity === d).map(e => e.file))];
         });
+
+    // Draw the entity names
     const entity_texts = entity_svg
         .selectAll('.entity-box-' + entity_type.toLowerCase())
         .data(entity_items)
@@ -215,6 +221,10 @@ function drawEntities(entity_items, entity_type, entity_svg, x_position, transit
         .transition(transition);
 }
 
+/**
+ * Function to draw the connections between the entities
+ * @param entity_svg the svg element to draw on
+ */
 function drawEntityConnections(entity_svg) {
     // Draw the WHO - WHERE connections
     en_persons.forEach(p => {
@@ -328,6 +338,8 @@ function drawEntityConnections(entity_svg) {
  * Handle the mouse over event on a rectangle.
  * @param d
  * @param i
+ *
+ * @Todo: Optimize the code with reusable functions
  */
 function handleMouseOverRect(d, i) {
     const entity_svg = d3.selectAll('#entity-visualization').select('svg');
@@ -596,7 +608,7 @@ function handleMouseOutRect(d, i) {
 }
 
 /**
- * Handle the mouse click event on a bubble.
+ * Handle the mouse click event on a rectangle.
  * @param d
  * @param i
  */
