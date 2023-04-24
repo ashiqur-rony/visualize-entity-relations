@@ -197,7 +197,7 @@ function drawEntities(entity_items, entity_type, entity_svg, x_position, transit
         .attr('y', (d, i) => 10 + (i + 1) * 20)
         .attr('width', '150')
         .attr('height', '15')
-        .attr('opacity', 0.7)
+        .attr('opacity', 1)
         .transition(transition)
         .attr('data-person', d => d)
         .attr('data-entity-type', entity_type.toLowerCase())
@@ -335,7 +335,12 @@ function handleMouseOverRect(d, i) {
 
     // Dim all rectangles
     d3.selectAll('.entity-rect')
-        .style('opacity', 0.1);
+        .style('opacity', 0.1)
+        .style('stroke-width', '0px')
+        .style('stroke', 'none');
+    d3.selectAll('.entity-box')
+        .style('stroke-width', '0px')
+        .style('stroke', 'none');
 
     // Highlight the current rectangle
     d3.select(d.target)
@@ -344,8 +349,6 @@ function handleMouseOverRect(d, i) {
         .style('stroke', 'black');
 
     // Highlight the connections
-    // console.log(d, i);
-    // console.log(d.target);
     let entity_type = d3.select(d.target).attr('data-entity-type');
     let entity_files = d3.select(d.target).attr('data-files').split(',');
 
@@ -360,7 +363,7 @@ function handleMouseOverRect(d, i) {
     if (entity_type === 'who') {
         // Highlight the connected WHERE rectangles
         where_items = [...new Set(entities.filter(e => (e.entity_type === 'GPE' && entity_files.includes(e.file))).map(e => e.entity))];
-        console.log(where_items);
+
         where_items.forEach(w => {
             d3.selectAll('.entity-box-where.entity-box-' + w.toLowerCase().replace(/[^a-zA-Z0-9]/g, '-'))
                 .style('opacity', 1)

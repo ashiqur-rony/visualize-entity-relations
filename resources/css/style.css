@@ -136,36 +136,36 @@ svg g.entity-box rect.entity-rect {
   border: 1px solid #333333;
 }
 svg g.entity-box rect.entity-rect.entity-rect-who {
-  fill: #647687;
+  fill: #aa9cfc;
   color: #000000;
 }
 svg g.entity-box rect.entity-rect.entity-rect-where {
-  fill: #7f8764;
+  fill: #feca74;
   color: #000000;
 }
 svg g.entity-box rect.entity-rect.entity-rect-when {
-  fill: #766487;
+  fill: #bfe1d9;
   color: #000000;
 }
 svg g.entity-box rect.entity-rect.entity-rect-what {
-  fill: #87646a;
+  fill: #c3a7ae;
   color: #000000;
 }
 svg g.entity-box text {
-  fill: #ffffff;
+  fill: #000000;
   font-size: 12px;
 }
 svg .entity-connection {
   stroke: #000000;
 }
 svg .entity-connection.entity-connection-who-where {
-  stroke: #647687;
+  stroke: #aa9cfc;
 }
 svg .entity-connection.entity-connection-where-when {
-  stroke: #7f8764;
+  stroke: #feca74;
 }
 svg .entity-connection.entity-connection-when-what {
-  stroke: #766487;
+  stroke: #bfe1d9;
 }
 
 /*# sourceMappingURL=style.css.map */
