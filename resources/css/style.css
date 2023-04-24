@@ -154,6 +154,7 @@ svg g.entity-box rect.entity-rect.entity-rect-what {
 svg g.entity-box text {
   fill: #000000;
   font-size: 12px;
+  font-weight: 600;
 }
 svg .entity-connection {
   stroke: #000000;
